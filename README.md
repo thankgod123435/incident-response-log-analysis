@@ -46,4 +46,12 @@ The repeated failed logon events require further investigation. The available ev
 This project was performed on my own Windows computer for educational and defensive cybersecurity learning.
 
 ## Author
-Cybersecurity Student
+Cybersecurity Student 
+
+## Incident Report
+
+See [Incident Response Report](incident-report.md) for the investigation findings, evidence, initial assessment, and defensive recommendations.
+
+## Evidence
+
+Screenshots from the investigation are available in the [evidence folder](evidence/).
